@@ -241,6 +241,10 @@ Zrobiłem to w ramach zajawki, aby lepiej zrozumieć działanie systemu.
 ## 📚 Dokumentacja
 Pełna dokumentacja kodu dostępna w pliku [dokumentacja](dokumentacja.md).
 
+---
+
+## 🔬 Zaległe prace z labolatorii
+[Dostępne tutaj na stronie internetowej](http://woocaash.pl/zalegle/) 
 
 ---
 **📝 Autor:** [Łukasz Kopański]  
