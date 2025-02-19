@@ -1,4 +1,7 @@
  # Odejmowanie w SMS32v50
+
+***📝 Autor:** [Łukasz Kopański]  
+
 ---
 
 ## 📌 Treść projektu
