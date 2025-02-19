@@ -1,6 +1,6 @@
  # Odejmowanie w SMS32v50
 
-***📝 Autor:** [Łukasz Kopański]  
+**📝 Autor:** [Łukasz Kopański]  
 
 ---
 
